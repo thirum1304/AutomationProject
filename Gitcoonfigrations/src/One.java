@@ -5,7 +5,7 @@ public class One {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("its a git conigrstions");
+		System.out.println("its a svn conigrstions");
 		
 
 	}
